@@ -17,7 +17,10 @@ dirsearch -u http://[ip] -w /path/to/wordlist/file -e php
 ```
 ## CMS
 ### wpscan
-Wpscan is a tool to scan Wordpress 
+Wpscan is a tool to scan websites created with Wordpress.
+```sh
+wpscan --url [url]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODA0Njg3NywtMTY3Mzg1MDAyOV19
+eyJoaXN0b3J5IjpbMTc0MjczMDc2OCwtMTY3Mzg1MDAyOV19
 -->
